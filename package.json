@@ -1,0 +1,19 @@
+{
+  "name": "bdd-demo",
+  "browsers": "chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.15.0"
+  },
+  "devDependencies": {
+    "@applitools/eyes-testcafe": "^1.14.3",
+    "cucumber": "^7.0.0-rc.0"
+  }
+}
